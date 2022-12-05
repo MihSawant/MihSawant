@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Java Enthusiast ☕️, Interested in Web Development 💻️,<br>Cloud Computing ☁️ and Web Security 🔐️<br>👯 I’m looking to collaborate on Spring and other cool Javascript<br>Frameworks<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Vue,  Reactive Spring and trying out GO<br>💬 Ask me about Spring Framework, Spring Boot
+🔭 Java Enthusiast ☕️, Interested in Web Development 💻️,<br>Cloud Computing ☁️ and Web Security 🔐️<br>👯 I’m looking to collaborate on Spring and other cool Javascript<br>Frameworks<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Vue,  Reactive Spring and trying out GO<br>💬 Ask me about Spring Framework, Spring Boot, Java, Web Development, Cloud
 
 
 ## 🌐 Socials:
