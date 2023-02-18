@@ -2,7 +2,7 @@
 
 <div align="center">
   
-I am a **Java** and **Spring Boot** developer.I like Backend Web Development, Cloud Computing and Web Security. Also I work on other cool Javascript and Frameworks frequently and am also big Fan of System Design and learning it.
+I am a **Java** and **Spring Boot** developer.I like Backend Web Development, Cloud Computing and Web Security. Also I work on other cool Javascript and Python Frameworks frequently and am also big Fan of System Design and learning it.
 
 <br> 
  
