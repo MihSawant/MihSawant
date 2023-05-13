@@ -1,5 +1,6 @@
-<p align="center"><img alt="Profile Info" src="https://i.ibb.co/nMsmVtx/Screenshot-2023-02-19-at-12-59-44-AM.png"></p>
-
+<div align="center">
+  <h1>Hello 👋, My name is Mihir Sawant</h1>
+</div>
 <div align="center">
   
 I am a **Java** and **Spring Boot** developer.I like Backend Web Development, Cloud Computing and Web Security. Also I work on other cool Javascript and Python Frameworks frequently and am also big Fan of System Design and learning it.
@@ -12,7 +13,7 @@ I am a **Java** and **Spring Boot** developer.I like Backend Web Development, Cl
 </div>
 
 
-# 💻 Tech Stack (Mostly Using):
+# 💻 Tech Stack (Mostly Working with):
 <p><img alt="Java" height="80px" width="80px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png " />
   <img alt="Spring Framework" height="80px" width="80px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
   <img alt="Spring Boot" height="80px" width="80px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
